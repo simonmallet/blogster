@@ -1,0 +1,12 @@
+.sidebar {
+    float: left;
+    width: 250px;
+    height: 100%;
+    background-color: #2ab27b;
+}
+
+.container {
+
+    padding-left: 260px;
+    background-color: #99cb84;
+}
